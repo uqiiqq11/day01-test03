@@ -3,6 +3,7 @@ package com.cblue.domain;
 public class Users {
     private Integer id;
     private String name;
+    private String name1;
 
     public String getName() {
         return name;
